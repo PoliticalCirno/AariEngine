@@ -7,4 +7,4 @@ What differenciates this repo from the public one is, that it gives updates and 
 
 This conatins game assets that are being developed using this engine.
  
-## USAGE OF THE GAME ASSET OUTSIDE OF PERSONAL USE IS CONSIDERED COPYRIGHT INFRINGEMENT, WE WILL TAKE MEASURES TO MAKE SURE THE ASSET ISN'T LEAKED.
+## Game asset is licensed under Creative commons (CC)
