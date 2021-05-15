@@ -1,0 +1,2 @@
++ PLEASE BE AWARE, APART FROM THE 3D MODELS, TEXTURES, AND CODE, ALL THE MUSIC IS NOT OWNED BY ME.
+All rights for these music belongs to Iosys and ZUN.
